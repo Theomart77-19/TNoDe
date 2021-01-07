@@ -1,4 +1,4 @@
-# This is a basic workflow to help you get started with Actions
+Up# This is a basic workflow to help you get started with Actions
 
 name: CI
 
@@ -31,6 +31,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-        run: |
+        run: |PACKAGE-REGISTRY.pkg.github.com)
           echo Add other actions to build,
           echo test, and deploy your project.
